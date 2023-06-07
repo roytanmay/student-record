@@ -1,0 +1,8 @@
+Roll No     Name        Department      Year        Address
+
+100         Ananya      IT              2nd         Kolkata
+101         Tenzin      IT              2nd         Kalimpong
+102         Bonny       IT              2nd         Kolkata
+103         Somenath    IEE             2nd         Bolpur
+104         Aunpam      CSE             3rd         Asansol
+105         Upayan      CSE             3rd         Kolkata
