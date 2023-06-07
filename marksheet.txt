@@ -4,4 +4,3 @@ Roll No     Math        OOS         Software Engineering
 102         86          91          92
 103         89          95          87
 104         81          89          97
-105         87          90          86
